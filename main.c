@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <windows.h>
 
-
+printf("ауе");
 
 int main()
 {
